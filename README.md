@@ -5,7 +5,7 @@ This project aims to predict heart disease presence using a **k-Nearest Neighbor
 
 ## How to Run  
 - Open the latest version of the project in **NBViewer**:  
-  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-heart-disease/blob/master/predicting-heart-disease-v1.3.ipynb)  
+  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-heart-disease/blob/master/predicting-heart-disease.ipynb)  
 
 ## Dataset  
 The dataset consists of patient records, including medical attributes such as **cholesterol, blood pressure, and exercise-induced angina**. The target variable indicates the presence of heart disease.  
