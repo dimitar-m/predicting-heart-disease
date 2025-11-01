@@ -3,6 +3,10 @@
 ## Overview  
 This project aims to predict heart disease presence using a **k-Nearest Neighbors (k-NN) model**. It involves **data preprocessing, feature selection, hyperparameter tuning, and evaluation** to optimize predictive performance.  
 
+## How to Run  
+- Open the latest version of the project in **NBViewer**:  
+  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-heart-disease/blob/master/predicting-heart-disease-v1.3.ipynb)  
+
 ## Dataset  
 The dataset consists of patient records, including medical attributes such as **cholesterol, blood pressure, and exercise-induced angina**. The target variable indicates the presence of heart disease.  
 
@@ -22,18 +26,7 @@ The dataset consists of patient records, including medical attributes such as **
   - **Train Accuracy:** 86.60%  
   - **Test Accuracy:** **88.77%**  
 
-## How to Run  
-- Open the latest version of the project in **NBViewer**:  
-  [View in NBViewer](https://nbviewer.org/github/dimitar-m/predicting-heart-disease/blob/master/predicting-heart-disease-v1.3.ipynb)  
-
 ## Key Findings  
 - Feature selection improved accuracy compared to using all features.  
 - **Hamming distance** worked best for k-NN in this dataset.  
 - **Hyperparameter tuning** significantly improved model performance.  
-
-## Future Work  
-- Test additional classifiers (e.g., **Random Forest, SVM, Neural Networks**).  
-- Use **ensemble learning** to combine multiple models for better accuracy.  
-- Experiment with **feature engineering** to create new informative variables.  
-
----
